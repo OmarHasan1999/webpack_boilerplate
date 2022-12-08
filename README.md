@@ -1,2 +1,8 @@
 # webpack_boilerplate
-WebPack BoilerPlate
+
+---
+
+```
+npm i
+npm run sereve
+```
